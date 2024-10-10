@@ -4,12 +4,14 @@
 1.	Download the file _SleepMat_Require_Matlab.zip_
 	
 2.	Extract the file (_sleepmat.p_)
+
+3.	Open Matlab.
    
-3.	Change the current folder to the new folder where _sleepmat.p_ file is located. E.g., If _sleepmat.p_ file is saved in the 'D' drive, in a folder _SleepMat_Require_Matlab_ then to change the current folder, type the following line in the MATLAB command window:
+4.	Change the current folder to the new folder where _sleepmat.p_ file is located. E.g., If _sleepmat.p_ file is saved in the 'D' drive, in a folder _SleepMat_Require_Matlab_ then to change the current folder, type the following line in the MATLAB command window:
    
 	_cd D:\SleepMat_Require_Matlab_
 
-4.	To open the software, type _sleepmat_ in the MATLAB command window, then hit enter.
+5.	To open the software, type _sleepmat_ in the MATLAB command window, then hit enter.
 
    ### SleepMat standalone app installation on Windows
 
