@@ -1,7 +1,7 @@
 # SleepMat2024.1
 
 ### Steps to run SleepMat in MATLAB
-1.	Download SleepMat_Require_Matlab.zip
+1.	Download _SleepMat_Require_Matlab.zip_
 	
 2.	Extract the file (sleepmat.p)
    
@@ -14,14 +14,14 @@
    ### SleepMat standalone app installation on Windows
 
 1.	Download the SleepMat_standalone_app_Windows.exe file
-2.	
-3.	Double click on the SleepMat_standalone_app_Windows.exe file.
-4.	
-5.	Please check the box for creating the shortcut to the Desktop.
    
-6.	Depending on your machine and internet connection it will take 5-10 min to complete the installation. By default, SleepMat installed in the 'C:\Program Files' folder
+2.	Double click on the SleepMat_standalone_app_Windows.exe file.
+	
+3.	Please check the box for creating the shortcut to the Desktop.
    
-7.	To run the SleepMat, double click on the SleepMat icon on the desktop
+4.	Depending on your machine and internet connection it will take 5-10 min to complete the installation. By default, SleepMat installed in the 'C:\Program Files' folder
+   
+5.	To run the SleepMat, double click on the SleepMat icon on the desktop
 
 ### SleepMat standalone app installation on Mac
 
