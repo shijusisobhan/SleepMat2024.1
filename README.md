@@ -1,4 +1,4 @@
-# SleepMat2024.1
+# SleepMat2024.1 (10/11/2024)
 
 We introduce *SleepMat*, a sleep analysis software developed in MATLAB with a user-friendly graphical user interface (GUI) to analyze *Drosophila* activity monitoring data. [Here you can find the publication.](https://academic.oup.com/sleep/advance-article/doi/10.1093/sleep/zsac195/6674229?searchresult=1)
 
