@@ -1,10 +1,12 @@
-# SleepMat2024.1
+# SleepMat2024.1 (10/11/2024)
 
 We introduce *SleepMat*, a sleep analysis software developed in MATLAB with a user-friendly graphical user interface (GUI) to analyze *Drosophila* activity monitoring data. [Here you can find the publication.](https://academic.oup.com/sleep/advance-article/doi/10.1093/sleep/zsac195/6674229?searchresult=1)
 
 This repository includes: A) A standalone application that does not require MATLAB to be installed. B) A p-code version that runs SleepMat within MATLAB, which requires a MATLAB license.
 
-A well-documented user guide and a walkthrough example are also provided. For any inquiries, please contact the [Allada Lab](https://alladalab.org/)
+A well-documented user guide and a walkthrough example are also provided. For any inquiries, please contact the [Allada Lab, Michigan Neuroscience Institute, University of Michigan, Ann Arbor, MI 48109-2800 ](https://alladalab.org/)
+
+Email: rallada@umich.edu
 
 
 ### Steps to run SleepMat in MATLAB
