@@ -1,4 +1,4 @@
-# SleepMat2024.1 (10/11/2024)
+# SleepMat2025.1 (9/26/2025)
 
 We introduce *SleepMat*, a sleep analysis software developed in MATLAB with a user-friendly graphical user interface (GUI) to analyze *Drosophila* activity monitoring data. [Here you can find the publication.](https://academic.oup.com/sleep/advance-article/doi/10.1093/sleep/zsac195/6674229?searchresult=1)
 
@@ -48,4 +48,18 @@ Email: rallada@umich.edu
     
 6.	To run the SleepMat, double click on the SleepMat icon
 
-   
+### New in 2025.1 (9/26/2025)
+
+  ### Fixes & Improvements
+
+1. Sleep Parameter Analysis Error
+
+Issue: 30-minute intervals with more than 30 channels per board caused errors.
+
+Fix: The update now properly calculates sleep parameters for intervals with >30 channels per board. Results have been validated.
+
+2. Invalid Date Error with Missing Values & Single-Digit Day Format
+
+Issue: Invalid date errors occurred when missing values were present and when using single-digit day formats (e.g., 3 Aug 24).
+
+Fix: SleepMat now supports both 03 Aug 24 and 3 Aug 24, with or without missing values.
