@@ -34,7 +34,7 @@ Email: rallada@umich.edu
    
 5.	To run the SleepMat, double click on the _SleepMat_ icon on the desktop
 
-### SleepMat standalone app installation on Mac
+### SleepMat standalone app installation on Mac (Coming soon...)
 
 1.	Download the _SleepMat_standalone_app_Mac.app.zip_ file
    
