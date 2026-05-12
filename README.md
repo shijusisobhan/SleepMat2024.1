@@ -6,7 +6,7 @@ This repository includes: A) A standalone application that does not require MATL
 
 A well-documented user guide and a walkthrough example are also provided. For any inquiries, please contact the [Allada Lab, Michigan Neuroscience Institute, University of Michigan, Ann Arbor, MI 48109-2800 ](https://alladalab.org/)
 
-Email: rallada@umich.edu
+Email: shijusisobhan@gmail.com
 
 
 ### Steps to run SleepMat in MATLAB
